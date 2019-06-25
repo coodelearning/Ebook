@@ -36,6 +36,8 @@ Ebook To Share.
     - [tutorial.pdf](./ebooks/CPP/tutorial.pdf)
 - CS
     - [深入理解计算机系统.pdf](./ebooks/CS/深入理解计算机系统.pdf)
+- Data_Architecture
+    - [无锁queue.pdf](./ebooks/Data_Architecture/无锁queue.pdf)
 - GNU
     - [Sed与awk.pdf](./ebooks/GNU/Sed与awk.pdf)
 - Http
@@ -58,6 +60,8 @@ Ebook To Share.
     - [离散数学及其应用.pdf](./ebooks/Math/离散数学及其应用.pdf)
     - [线性代数.pdf](./ebooks/Math/线性代数.pdf)
     - [统计学习方法.pdf](./ebooks/Math/统计学习方法.pdf)
+- Mqtt
+    - [mqtt.pdf](./ebooks/Mqtt/mqtt.pdf)
 - Mysql
     - [high-performance-mysql.pdf](./ebooks/Mysql/high-performance-mysql.pdf)
 - Python
