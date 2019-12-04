@@ -38,6 +38,8 @@ Ebook To Share.
     - [深入理解计算机系统.pdf](./ebooks/CS/深入理解计算机系统.pdf)
 - Data_Architecture
     - [无锁queue.pdf](./ebooks/Data_Architecture/无锁queue.pdf)
+- Deepin折腾笔记v4.01.pdf
+    - [./ebooks/Deepin折腾笔记v4.01.pdf](./ebooks/Deepin折腾笔记v4.01.pdf/./ebooks/Deepin折腾笔记v4.01.pdf)
 - GNU
     - [Sed与awk.pdf](./ebooks/GNU/Sed与awk.pdf)
 - Http
